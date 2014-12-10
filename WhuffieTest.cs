@@ -6,11 +6,11 @@ using Whuffie;
 
 class WhuffieTest {
 
-	public WhuffieTest(){
-		Console.WriteLine("Test");
-	}
+    public WhuffieTest(){
+        Console.WriteLine("Test");
+    }
 
-  static void Main(){
-    new WhuffieTest();
-  }
+    static void Main(){
+        new WhuffieTest();
+    }
 }

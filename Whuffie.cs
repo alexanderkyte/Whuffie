@@ -3,11 +3,11 @@ using System;
 namespace Whuffie
 {
 
-  class Whuffie {
+    class Whuffie {
 
-	public Whuffie(){
-		return;
-	}
+        public Whuffie(){
+            return;
+        }
 
-  }
+    }
 }
